@@ -5,7 +5,7 @@ font-family: 'Cabin', sans-serif;
 }
 
 body {
-    background-color: rgb(44, 24, 27);
+background: linear-gradient(0deg, hsla(351, 29%, 13%, 1) 0%, hsla(351, 47%, 22%, 1) 100%);
 }
 .oaklands-logo {
     display: flex;

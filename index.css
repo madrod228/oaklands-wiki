@@ -37,7 +37,7 @@ body {
     height: 350px;
     border: solid #003a3a 5px;
     border-radius: 10px;
-    background: linear-gradient(0deg,#d3e7e4, #003a3a) ;
+    background-color: #d3e7e4;
     transition: ease-in-out 200ms;
 }
 

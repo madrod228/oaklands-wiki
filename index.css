@@ -5,8 +5,10 @@ font-family: 'Cabin', sans-serif;
 }
 
 body {
-background: linear-gradient(0deg, hsla(351, 29%, 13%, 1) 0%, hsla(351, 47%, 22%, 1) 100%);
-}
+    background: linear-gradient(0deg, #2b181a , #521e26) ;
+    background-size: 100vh 100vw;
+    }
+    
 .oaklands-logo {
     display: flex;
     align-items: center;
@@ -33,9 +35,9 @@ background: linear-gradient(0deg, hsla(351, 29%, 13%, 1) 0%, hsla(351, 47%, 22%,
 .item-box {
     width: 250px;
     height: 350px;
-    border: solid rgb(0, 58, 58) 5px;
+    border: solid #003a3a 5px;
     border-radius: 10px;
-    background-color: rgb(211,231,228);
+    background: linear-gradient(0deg,#d3e7e4, #003a3a) ;
     transition: ease-in-out 200ms;
 }
 

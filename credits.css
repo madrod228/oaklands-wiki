@@ -5,8 +5,7 @@
     transition: ease-in-out 200ms;
 }  
 body {
-background: linear-gradient(0deg, #2b181a , #521e26) ;
-background-size: 100vh 100vw;
+background-color: #2b181a;
 }
 
 .credit-box {
